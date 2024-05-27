@@ -1,0 +1,70 @@
+#kevin {
+    width: 350px;
+    height: 290px;
+}
+
+#james {
+    width: 350px;
+    height: 290px;
+    display: inline-block;
+}
+
+#adrian {
+    width: 350px;
+    height: 290px;
+}
+
+#anonymous {
+    width: 350px;
+    height: 290px;
+}
+
+#hone {
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+
+#kevinpara {
+    display: inline-block;
+    height: 280px;
+    width: 1110px;
+    text-align: justify;
+    overflow: scroll;
+    margin: 0px;
+}
+
+#jamespara {
+    display: inline-block;
+    height: 280px;
+    width: 1110px;
+    text-align: justify;
+    overflow: scroll;
+}
+
+#adrainpara {
+    display: inline-block;
+    height: 280px;
+    width: 1110px;
+    text-align: justify;
+    overflow: scroll;
+}
+
+#anonymouspara {
+    display: inline-block;
+    height: 280px;
+    width: 1110px;
+    text-align: justify;
+    overflow: scroll;
+}
+
+#jonathanjamesh2 {
+    padding-right: 120px;
+    float: inline-end;
+}
+
+#anonymoush2 {
+    padding-right: 120px;
+    float: inline-end;
+}
